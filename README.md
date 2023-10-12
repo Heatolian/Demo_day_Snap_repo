@@ -1,2 +1,1 @@
-# Demo_day_Snap_repo
- Snap repo
+# camera_kit_demo
